@@ -21,20 +21,20 @@ En primer lugar vamos a poner el comando para instalar el Netbeans.
 
 ### Ejecutando Netbeans 12 <a name=id2></a>
 
-Escribimos en el terminal Netbeans
+Escribimos en el terminal Netbeans.
 
 ![](img/2.1.png)
 ![](img/2.2.png)
 
 ### Eliminar Netbeans <a name=id3></a>
 
-Usamos el comando para eliminar el Netbeans
+Usamos el comando para eliminar el Netbeans.
 
 ![](img/img3.png)
 
 ### Instalación a través de wget <a name=id4></a>
 
-ponemos el comando de la descarga de wget y lo instalamos con un script y seguimos los pasos que nos pide la instalación
+Ponemos el comando de la descarga de wget y lo instalamos con un script y seguimos los pasos que nos pide la instalación.
 
 ![](img/img4.png)
 ![](img/img4.2.png)
